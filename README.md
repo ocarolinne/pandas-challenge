@@ -1,7 +1,7 @@
 # pandas-challenge
 Boot Camp Activities
 
-![](Images/education.png)
+![](https://github.com/ocarolinne/pandas-challenge/blob/main/Starter_Code/Images/education.png)
 
 # Background
 
